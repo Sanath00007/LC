@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanath00007/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanath00007/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
