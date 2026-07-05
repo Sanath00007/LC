@@ -8,6 +8,7 @@
 | [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanath00007/LC/tree/master/3285-find-indices-of-stable-mountains) |
 ## Greedy
 |  |
@@ -60,8 +61,17 @@
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
