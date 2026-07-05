@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanath00007/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanath00007/LC/tree/master/3285-find-indices-of-stable-mountains) |
@@ -35,6 +36,7 @@
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/Sanath00007/LC/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanath00007/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
