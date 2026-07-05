@@ -9,6 +9,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sanath00007/LC/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Sanath00007/LC/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanath00007/LC/tree/master/3285-find-indices-of-stable-mountains) |
 ## Greedy
@@ -50,6 +51,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Sanath00007/LC/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Sanath00007/LC/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
