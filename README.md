@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/Sanath00007/LC/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanath00007/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/Sanath00007/LC/tree/master/0283-move-zeroes) |
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
 | [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sanath00007/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sanath00007/LC/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Sanath00007/LC/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanath00007/LC/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sanath00007/LC/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/Sanath00007/LC/tree/master/2000-reverse-prefix-of-word) |
