@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sanath00007/LC/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanath00007/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
@@ -91,9 +92,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sanath00007/LC/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sanath00007/LC/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
