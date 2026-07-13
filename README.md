@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Sanath00007/LC/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sanath00007/LC/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanath00007/LC/tree/master/0560-subarray-sum-equals-k) |
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
 | [1629-slowest-key](https://github.com/Sanath00007/LC/tree/master/1629-slowest-key) |
 | [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
@@ -79,6 +80,7 @@
 | [0205-isomorphic-strings](https://github.com/Sanath00007/LC/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanath00007/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanath00007/LC/tree/master/0560-subarray-sum-equals-k) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sanath00007/LC/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Bit Manipulation
 |  |
@@ -146,6 +148,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanath00007/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sanath00007/LC/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Sanath00007/LC/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
 | ------- |
