@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Sanath00007/LC/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sanath00007/LC/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sanath00007/LC/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanath00007/LC/tree/master/0560-subarray-sum-equals-k) |
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanath00007/LC/tree/master/1480-running-sum-of-1d-array) |
@@ -149,10 +150,15 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanath00007/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sanath00007/LC/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Sanath00007/LC/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanath00007/LC/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanath00007/LC/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanath00007/LC/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sanath00007/LC/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
