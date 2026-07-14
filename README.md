@@ -22,6 +22,7 @@
 | [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sanath00007/LC/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sanath00007/LC/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sanath00007/LC/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanath00007/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sanath00007/LC/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Sanath00007/LC/tree/master/2000-reverse-prefix-of-word) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sanath00007/LC/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Stack
 |  |
 | ------- |
