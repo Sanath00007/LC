@@ -6,6 +6,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Sanath00007/LC/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sanath00007/LC/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Sanath00007/LC/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanath00007/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sanath00007/LC/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanath00007/LC/tree/master/0209-minimum-size-subarray-sum) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sanath00007/LC/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Sanath00007/LC/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -44,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sanath00007/LC/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Sanath00007/LC/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanath00007/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sanath00007/LC/tree/master/0202-happy-number) |
