@@ -129,6 +129,7 @@
 | [0292-nim-game](https://github.com/Sanath00007/LC/tree/master/0292-nim-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sanath00007/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -201,4 +202,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sanath00007/LC/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sanath00007/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
