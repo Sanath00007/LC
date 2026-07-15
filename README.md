@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sanath00007/LC/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sanath00007/LC/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sanath00007/LC/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanath00007/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanath00007/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/Sanath00007/LC/tree/master/0832-flipping-an-image) |
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
@@ -37,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/Sanath00007/LC/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sanath00007/LC/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanath00007/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
@@ -54,6 +56,7 @@
 | [0202-happy-number](https://github.com/Sanath00007/LC/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sanath00007/LC/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanath00007/LC/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanath00007/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sanath00007/LC/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/Sanath00007/LC/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Sanath00007/LC/tree/master/0876-middle-of-the-linked-list) |
@@ -94,6 +97,7 @@
 | [0141-linked-list-cycle](https://github.com/Sanath00007/LC/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sanath00007/LC/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sanath00007/LC/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanath00007/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sanath00007/LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanath00007/LC/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +113,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanath00007/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sanath00007/LC/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanath00007/LC/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Sanath00007/LC/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
