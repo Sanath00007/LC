@@ -127,6 +127,7 @@
 | [0013-roman-to-integer](https://github.com/Sanath00007/LC/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Sanath00007/LC/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Sanath00007/LC/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Sanath00007/LC/tree/master/1025-divisor-game) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanath00007/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanath00007/LC/tree/master/0053-maximum-subarray) |
+| [1025-divisor-game](https://github.com/Sanath00007/LC/tree/master/1025-divisor-game) |
 ## Linked List
 |  |
 | ------- |
@@ -198,10 +200,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sanath00007/LC/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Sanath00007/LC/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sanath00007/LC/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Sanath00007/LC/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
 | ------- |
