@@ -21,6 +21,7 @@
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanath00007/LC/tree/master/1480-running-sum-of-1d-array) |
 | [1629-slowest-key](https://github.com/Sanath00007/LC/tree/master/1629-slowest-key) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sanath00007/LC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanath00007/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -83,6 +84,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Sanath00007/LC/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanath00007/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1629-slowest-key](https://github.com/Sanath00007/LC/tree/master/1629-slowest-key) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sanath00007/LC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Sanath00007/LC/tree/master/2000-reverse-prefix-of-word) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
