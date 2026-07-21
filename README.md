@@ -27,6 +27,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sanath00007/LC/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sanath00007/LC/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sanath00007/LC/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -44,6 +45,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sanath00007/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -145,11 +147,13 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
+| [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Sanath00007/LC/tree/master/0832-flipping-an-image) |
+| [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
