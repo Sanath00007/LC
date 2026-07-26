@@ -48,6 +48,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanath00007/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sanath00007/LC/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanath00007/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sanath00007/LC/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanath00007/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
