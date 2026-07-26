@@ -16,6 +16,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Sanath00007/LC/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanath00007/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanath00007/LC/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanath00007/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sanath00007/LC/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Sanath00007/LC/tree/master/0832-flipping-an-image) |
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
@@ -44,6 +45,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanath00007/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanath00007/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
 ## Counting Sort
@@ -132,6 +134,7 @@
 | [0013-roman-to-integer](https://github.com/Sanath00007/LC/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Sanath00007/LC/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Sanath00007/LC/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanath00007/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Sanath00007/LC/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanath00007/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
