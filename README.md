@@ -20,6 +20,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/Sanath00007/LC/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Sanath00007/LC/tree/master/0832-flipping-an-image) |
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanath00007/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanath00007/LC/tree/master/1480-running-sum-of-1d-array) |
 | [1629-slowest-key](https://github.com/Sanath00007/LC/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sanath00007/LC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -46,6 +47,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sanath00007/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanath00007/LC/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanath00007/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sanath00007/LC/tree/master/3536-maximum-product-of-two-digits) |
@@ -152,6 +154,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanath00007/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanath00007/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
