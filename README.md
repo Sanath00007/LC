@@ -22,6 +22,7 @@
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanath00007/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanath00007/LC/tree/master/1480-running-sum-of-1d-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sanath00007/LC/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1629-slowest-key](https://github.com/Sanath00007/LC/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sanath00007/LC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Sanath00007/LC/tree/master/0832-flipping-an-image) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sanath00007/LC/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Heap (Priority Queue)
 |  |
