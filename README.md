@@ -29,6 +29,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sanath00007/LC/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Sanath00007/LC/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanath00007/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Sanath00007/LC/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sanath00007/LC/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -209,6 +210,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sanath00007/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sanath00007/LC/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanath00007/LC/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Sanath00007/LC/tree/master/1991-find-the-middle-index-in-array) |
 ## Queue
 |  |
 | ------- |
