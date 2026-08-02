@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/Sanath00007/LC/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sanath00007/LC/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Sanath00007/LC/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/Sanath00007/LC/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Sanath00007/LC/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanath00007/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanath00007/LC/tree/master/1480-running-sum-of-1d-array) |
@@ -142,6 +143,7 @@
 | [0202-happy-number](https://github.com/Sanath00007/LC/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Sanath00007/LC/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanath00007/LC/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sanath00007/LC/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sanath00007/LC/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanath00007/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanath00007/LC/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Sanath00007/LC/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sanath00007/LC/tree/master/1025-divisor-game) |
 ## Linked List
 |  |
@@ -228,6 +231,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sanath00007/LC/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Sanath00007/LC/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sanath00007/LC/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
