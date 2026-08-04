@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sanath00007/LC/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sanath00007/LC/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sanath00007/LC/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sanath00007/LC/tree/master/0075-sort-colors) |
@@ -110,6 +111,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sanath00007/LC/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanath00007/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sanath00007/LC/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanath00007/LC/tree/master/0013-roman-to-integer) |
