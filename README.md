@@ -153,6 +153,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanath00007/LC/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanath00007/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2235-add-two-integers](https://github.com/Sanath00007/LC/tree/master/2235-add-two-integers) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanath00007/LC/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/Sanath00007/LC/tree/master/3516-find-closest-person) |
