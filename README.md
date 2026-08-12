@@ -41,6 +41,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sanath00007/LC/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanath00007/LC/tree/master/3285-find-indices-of-stable-mountains) |
+| [3731-find-missing-elements](https://github.com/Sanath00007/LC/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sanath00007/LC/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Sanath00007/LC/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sanath00007/LC/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sanath00007/LC/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sanath00007/LC/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3731-find-missing-elements](https://github.com/Sanath00007/LC/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
