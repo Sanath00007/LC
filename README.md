@@ -260,4 +260,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanath00007/LC/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sanath00007/LC/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
