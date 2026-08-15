@@ -268,4 +268,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sanath00007/LC/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/Sanath00007/LC/tree/master/0620-not-boring-movies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanath00007/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
