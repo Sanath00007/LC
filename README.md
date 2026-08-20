@@ -291,6 +291,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sanath00007/LC/tree/master/0175-combine-two-tables) |
+| [0584-find-customer-referee](https://github.com/Sanath00007/LC/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Sanath00007/LC/tree/master/0620-not-boring-movies) |
 ## Bracket Sequences
 |  |
