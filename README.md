@@ -157,6 +157,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sanath00007/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Sanath00007/LC/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sanath00007/LC/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/Sanath00007/LC/tree/master/0441-arranging-coins) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0202-happy-number](https://github.com/Sanath00007/LC/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Sanath00007/LC/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Sanath00007/LC/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Sanath00007/LC/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanath00007/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanath00007/LC/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sanath00007/LC/tree/master/1025-divisor-game) |
