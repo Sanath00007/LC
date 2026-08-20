@@ -103,6 +103,7 @@
 | [0389-find-the-difference](https://github.com/Sanath00007/LC/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sanath00007/LC/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sanath00007/LC/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Sanath00007/LC/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sanath00007/LC/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sanath00007/LC/tree/master/0821-shortest-distance-to-a-character) |
 | [1021-remove-outermost-parentheses](https://github.com/Sanath00007/LC/tree/master/1021-remove-outermost-parentheses) |
