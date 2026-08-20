@@ -37,6 +37,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Sanath00007/LC/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sanath00007/LC/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Sanath00007/LC/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sanath00007/LC/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sanath00007/LC/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Sanath00007/LC/tree/master/0455-assign-cookies) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Sanath00007/LC/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanath00007/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanath00007/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sanath00007/LC/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Sanath00007/LC/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2974-minimum-number-game](https://github.com/Sanath00007/LC/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sanath00007/LC/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Sanath00007/LC/tree/master/3731-find-missing-elements) |
@@ -92,6 +95,7 @@
 | [0832-flipping-an-image](https://github.com/Sanath00007/LC/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Sanath00007/LC/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Sanath00007/LC/tree/master/2000-reverse-prefix-of-word) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Sanath00007/LC/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
