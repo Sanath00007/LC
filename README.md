@@ -46,6 +46,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sanath00007/LC/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Sanath00007/LC/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Sanath00007/LC/tree/master/3285-find-indices-of-stable-mountains) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sanath00007/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sanath00007/LC/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -152,6 +153,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sanath00007/LC/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sanath00007/LC/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Sanath00007/LC/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sanath00007/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sanath00007/LC/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
