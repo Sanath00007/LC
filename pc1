@@ -1,0 +1,73 @@
+gcc program.c -fopenmp -o program
+./program
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<omp.h>
+#define size 100000
+void merge(int a[],int l,int m,int r){
+    int n1=m-l+1;
+    int n2=r-m;
+    int *le=(int*)malloc(n1*sizeof(int));
+    int *re=(int*)malloc(n2*sizeof(int));
+
+    for(int i=0;i<n1;i++)
+        le[i]=a[l+i];
+    for(int j=0;j<n2;j++)
+        re[j]=a[m+1+j];
+
+    int i=0,j=0,k=l;
+    while(i<n1&&j<n2){
+        a[k++]=(le[i]<re[j])?le[i++]:re[j++];
+    }
+    while(i<n1){
+        a[k++]=le[i++];
+    }
+    while(j<n2){
+        a[k++]=re[j++];
+    }
+        free(le);
+        free(re);
+    
+}
+void seq(int a[],int l,int r){
+    if(l<r){
+        int m=(l+r)/2;
+        seq(a,l,m);
+        seq(a,m+1,r);
+        merge(a,l,m,r);
+    }
+}
+void par(int a[],int l,int r){
+    if(l<r){
+        int m=(l+r)/2;
+        #pragma omp parallel sections
+        {
+            #pragma omp section
+        par(a,l,m);
+            #pragma omp section
+        par(a,m+1,r);
+        }
+        merge(a,l,m,r);
+    }
+}
+int main(){
+    int as[size],ap[size];
+    double st,en;
+    for(int i=0;i<size;i++){
+        int val=rand();
+        as[i]=val;
+        ap[i]=val;
+    }
+
+    st=omp_get_wtime();
+    par(ap,0,size-1);
+    en=omp_get_wtime();
+    printf("par time %f",en-st);
+
+    st=omp_get_wtime();
+    seq(as,0,size-1);
+    en=omp_get_wtime();
+    printf("seq time %f",en-st);
+    return 0;
+}
